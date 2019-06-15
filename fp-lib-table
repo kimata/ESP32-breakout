@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ESP32)(type KiCad)(uri C:/Users/kimata/Documents/KiCAD/ESP32-breakout/library/ESP32-footprints-Lib.pretty)(options "")(descr ""))
+  (lib (name JST)(type KiCad)(uri C:/Users/kimata/Documents/KiCAD/ESP32-breakout/library/Connectors_JST.pretty)(options "")(descr ""))
+  (lib (name AKIZUKI)(type KiCad)(uri C:/Users/kimata/Documents/KiCAD/ESP32-breakout/library/nosuz-kicad-lib.pretty)(options "")(descr ""))
+)
